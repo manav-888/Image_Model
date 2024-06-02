@@ -1,4 +1,5 @@
-# Gemini Image Model
+# Gemini Image & Text Analysis
+
 ![Screenshot 2024-06-02 at 12 55 33 PM](https://github.com/manav-888/Image_Model/assets/28830098/1230fb78-10b7-43dd-9500-8b49818c40e4)
 
 # Building a Response from Image
