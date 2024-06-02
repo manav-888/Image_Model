@@ -38,7 +38,7 @@ Follow these steps to set up the project on your local machine:
 
    ```
 
-6. ** Create .env  file   in same directory  and Configure GOOGLE API KEY  :**
+6. ** Create .env  file   in same directory   and Configure GOOGLE API KEY  then put all file in  .gitignore file :**
    ```
     GOOGLE_API_KEY=" Insert Your KEY "
    
@@ -48,8 +48,6 @@ Follow these steps to set up the project on your local machine:
 
    ** To run without Google API key  then hit submit query button with Hugging face model **
 
-
-
 8. **  Run a app.py file in terminal **
    ```
    streamlit run app.py
@@ -57,4 +55,4 @@ Follow these steps to set up the project on your local machine:
    ```
    ![Screenshot 2024-06-02 at 12 56 16 PM](https://github.com/manav-888/Image_Model/assets/28830098/202f799b-d346-4020-807c-83d258bbca67)
 
-  
+
