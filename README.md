@@ -1,7 +1,7 @@
 # Gemini Image Model
 ![Screenshot 2024-06-02 at 12 55 33 PM](https://github.com/manav-888/Image_Model/assets/28830098/1230fb78-10b7-43dd-9500-8b49818c40e4)
 
-# Building a context from Image
+# Building a Response from Image
 ![Screenshot 2024-06-02 at 12 56 16 PM](https://github.com/manav-888/Image_Model/assets/28830098/7dcccc9f-2213-495b-b4c2-d26a6b0548c4)
 
 
